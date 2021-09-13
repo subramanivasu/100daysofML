@@ -1,0 +1,3 @@
+Revised the first four week's of Machine Learning course by Andrew NG.
+Finished the section 3 of ML_Zoomcamp session 2.
+Learnt about the basics of exploratory data analysis, plotting of graphs(Histogram) using matplotlib, getting rid of long tails using np.log1p method e.t.c
