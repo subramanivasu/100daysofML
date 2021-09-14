@@ -1,0 +1,78 @@
+Completed the Week 6 lectures of Coursera Machine Learning by Andrew NG.
+  Learnt about 
+  * Hypothesis Evaluation
+      - Getting more training examples
+      - Trying smaller sets of features
+      - Trying additional features
+      - Trying polynomial features
+      - Increasing or decreasing λ
+      Learnt about test error.
+   *Model Selection and Train/Valid/Test sets
+        Break down our dataset into the three sets is:
+          - Training set: 60%
+          - Cross validation set: 20%
+          - Test set: 20%
+          Optimizing theta parameters.
+          Finding the best polynomial degree d for best fit using cross validation set.
+          Estimating the generalization error using test set.
+          
+   * Bias vs Variance
+        Learnt about distinguishing between high bias and high variance
+        High bias is underfitting and high variance is overfitting.
+        The training error will decrease as we increase the degree d of the polynomial.
+        Cross validation error will decrease as we increase d up to a point, and then it will increase as d is increased, forming a convex curve.
+   *Reguralization and Bias/Variance
+        Learnt about chosing the optimum lambda value from a list of lambdas ( eg. λ∈{0,0.01,0.02,0.04,0.08,0.16,0.32,0.64,1.28,2.56,5.12,10.24})
+        Create a set of models with different degrees or any other variants.
+        Iterate through all the lambdas and through all models to find an optimum theta.
+        With the new found theta, we compute cross validation without regularization parameter (Lambda) i.e λ = 0.
+        Select a model that produces the lowerst error on cv set for the given lambda and theta.
+        Using this apply it on test set to get a good generalization.
+   *Learning Curves
+        If a learning algorithm is of high variance, more training data will help.
+        If a learning algorithm is of high bias, more training data will not help.
+     
+        Our decision process can be broken down as follows:
+
+        - Getting more training examples: Fixes high variance
+        - Trying smaller sets of features: Fixes high variance
+        - Adding features: Fixes high bias
+        - Adding polynomial features: Fixes high bias
+        - Decreasing λ: Fixes high bias
+        - Increasing λ: Fixes high variance.
+   *Diagnosing Neural Networks
+
+        - A neural network with fewer parameters is **prone to underfitting**. It is also **computationally cheaper**.
+        - A large neural network with more parameters is **prone to overfitting**. It is also **computationally expensive**. In this case you can use regularization (increase λ) to address the overfitting.
+        
+        - Lower-order polynomials will have high bias and low variance. This fits the model poorly
+        - Higher-order polynomials will fit the training data extremely well and the test data extremely poor. These have low bias on the training data, but very high variance.
+        - We will want to choose a model somewhere in between, that can generalize well but also fits the data reasonably well.
+   *Machine Learning System Design
+         -Learnt about Error Analysis
+        - Start with a simple algorithm, implement it quickly, and test it early on your cross validation data.
+        - Plot learning curves to decide if more data, more features, etc. are likely to help.
+        - Manually examine the errors on examples in the cross validation set and try to spot a trend where most of the errors were made.
+        
+        Numerical evaluation is of high importance. Error analysis alone won't help improve performance. It will require trial eror, such as with and withouut Stemming to determine whether the words mom/Mom treated be the same or two,to,too e.t.c
+        
+   *Learnt about error metrics for skewed classes.
+        
+        Using Precision/Recall to predict the outcomes. 
+        The F1 score is used to determine the trade off between the precision and recall. An algorithm is a good one if it has high precision and high recall.
+        
+        
+        
+        
+Completed lesson four of ML_Zoomcamp session 2. 
+Learnt about validation framework setup,Exploratory data analysis, splitting the data into train,validation and test(Used shuffling to eradicate order).
+
+        
+        
+        
+        
+        
+        
+        
+        
+    
