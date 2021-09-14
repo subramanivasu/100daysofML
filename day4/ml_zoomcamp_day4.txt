@@ -1,1 +1,0 @@
-Notebook for the validation framework setup lesson from ML_ZOOMCAMP
