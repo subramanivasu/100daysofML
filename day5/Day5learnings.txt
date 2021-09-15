@@ -1,0 +1,35 @@
+Completed the Week 7 lectures of Machine Learning course by Prof.Andrew.
+  *Learnt about Support Vector Machines
+    *Learnt about support vector machine hypothesis.
+    The cost function term is multiplied with the C parameter ( 1/λ).
+    The SVM will provide large margin classifier from outliers.
+    *Learnt about Kernels.
+      Instead of features x1,x2,x3...xm, f1,f2,f3...fm features are used.
+      For a given X, a new feature is computed based on the proximity to landmarks l(1),l(2),l(3) which are plotted exactly based on a training example, (x(i)).
+      *Learnt about Kernels and Similarity
+      f1 = similarity(x,l(1) = exp( - ((||x - l(1)||)^@)/2σ^2))
+      When x is closer to landmarl l(1), f1 is ~ 1. If it's far from l(1),f1~0.
+      The features f1,f2,f3...fm are vectorized.
+      *Learnt about SVM parameters.
+          C( = 1/λ )
+          For larger values of C : Lower bias, high variance
+          For smaller values of C: Higher bias,low variance
+          
+          For larger values of σ^2 : Features f(i) varies smoothly - High bias, low variance
+          For smaller values of σ^2: Features f(i) varies rapidlyt or less smoothly - Low bias, high variance
+          
+          
+      * Learnt about multi_class svms
+      *Learnt about other choices of kernels such as Plynomial kernel e.t.c
+      *Learnt about the differences between Logistic regression vs SVMs
+          Let n  =  number of	features, m = number of training examples
+              If n is large compared to m, one should use logistic regression or a SVM with linear kernel ( No kernel)
+              If n is small and m is intermediate:
+                  Use SVM with Gaussian Kernel
+              If n is small and m is large:
+                  Adding/creating more polynomial features, having a neural network with more hidden units , using logistic regression or SVM with linear kernel is recomendded.
+  
+ 
+            
+      
+    
