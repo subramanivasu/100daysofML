@@ -1,0 +1,34 @@
+*Completed Week 8 lecture's of Machine Learning Course by Coursera
+  *Learnt about Unsupervised Learning and it's applications
+    *Learnt about K-means algorithm
+      *Learnt about the initialization of K-means algorithm
+        -C(i) index - Index of cluster centroid closest to x(i)
+        -μk - average (mean) of points assigned to cluster k
+      * Learnt about K-means optimization objective and the k-means ost function
+      *Learnt about Random initialization of K clusters
+      *Learnt about the process of going about chosing number of clusters
+   
+   
+   *Learnt about Dimensionality Reduction
+      *Learnt about Data Compression and how it helps in utilizing less memory/disk space.
+      *Learnt about compressing dimensionality from 2D to 1D and 3D to 2D.
+      *Learnt about Data Visualization
+      *Learnt about PCA(Principal Component Analysis)
+        - Reduce from 2-dimension to 1-dimension: Find a direc1on (a u vector onto which to project the data so as to minimize the projec1on error).
+        - Reduce from n-dimension to k-dimension: Find k vectors onto which to project the data(u(1),u(2),...,u(k), so as to minimize the projec1on error).
+      *Learnt about Data Preprocessing
+        -Preprocessing (feature scaling/mean normaliza1on)
+      *Learnt about Covariance Matrix which helps to educe data from n‐dimensions to k‐dimensions.
+      *Learnt about the process of reconstruc1on of original data from compressed representa1on
+      *Learnt about the efficient method/function to chose the best k value that retains atleast 99% variance.
+        -First we TRY PCA with k=1,k=2 ...
+        - We then compute Ureduce, z(1),z(2), ...z(m),x(1)approx,....x(m)approx
+        - Lastly we check with the formula wether the desired percentage of variance is retained and chose the appropriate k value.
+        -PCA helps reduce memory/disk needed to store data.
+        It helps speed up learning algorithm and for visualization.
+        
+       *PCA should not be used for trying to prevent overfitting
+       *Before implementing PCA,we should first try running the raw data x(i) and if it doesn't produce the desired result, then one should implement PCA using z(i).
+ 
+      
+  
