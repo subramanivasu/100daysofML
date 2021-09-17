@@ -1,0 +1,30 @@
+Completed Lessons 5-11 of Session 2 of ML_Zoomcamp
+  *Learnt about the implementation of Simple Linear Regression
+      -Played with different weights and implemented the Linear Regression
+  *Learned and implemented Vectorized form of Linear Regression
+  *Learnt about training the Linear regression with Normal Equation w = (XTX)^-1.XT.y
+      - With the given equaiton, the w,weights are calculated. The weights w are of (n+1) dimension where w0 takes a baseline value depending on the type of data.
+      - XT will also include x0 bias term whose value is always one.
+      
+  *Learnt about baseline modelling with Car price dataset.
+      -We select a set of base features from the data set and use them as training values.
+      -With the training data, the weights parameters w0,w are calculated.
+      -Finally the prediction value is computed and is visualized with histogram.
+      
+  *Learnt about model quality evaluation using RMSE(Root mean squared error)
+    *Implemented and calculated the RMSE for the model
+  *Computed the RMSE on the validation set
+      - Certain features from the data set are selected.
+      - Missing values are filled.
+      - Then training and validation sets are derived from the data set.
+      - The model is implemented and RMSE is computed.
+      - The RMSE is evaluated.
+   *Learnt about Feature Engineering
+      - In feature engineering, additional features are added to the previous base features, such as the 'age' of the vehicle from a baseline year.
+      - With this new feature added to the training and validation set, the model and RMSE is computed.
+      - The model is evaluted with RMSE score.
+      - Histogram is ploted to visualize the results.
+ 
+
+The notebook is attached in the folder.
+      
