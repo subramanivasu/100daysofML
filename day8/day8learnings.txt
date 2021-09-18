@@ -1,0 +1,11 @@
+Completed Week 9 lectures of Machine Learning course by Prof.Andrew
+  *Learnt about Gaussian distribution and algorithm.
+  *Learnt about Developing and Evaluating an Anomaly Detection System
+  *Learnt about the differences between Anomaly Detection and Supervised Learning
+  *Learnt how to go about choosing features.
+  *Learnt about Multivariate Gaussian Distribution
+  *Learnnt about using Multivariate Gaussian Distribution for Anomaly detecion.
+  *Learnt about methods to predit movie ratings and how to model Content Based Recommendations
+  *Learnt about Collaborative filtering and colaborative filtering algorithm. - Helps to derive featurex x from theta and vice versa.
+  *Learnt about Vectorization: Low Rank Matrix Factorization 
+  *Learnt about Mean normalization for Low Rank Matrix Factorization 
