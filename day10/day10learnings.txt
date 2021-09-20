@@ -1,0 +1,3 @@
+Completed the Week 3 quiz of Machine Learning by Prof Andrew.
+Completed the session 2 of ML_Zoomcamp and submitted the homework. Completed the lessons Categorical Variables, Regularization and Tuning the model.
+ML_Zoomcamp Homework 2 notebook is attached.
