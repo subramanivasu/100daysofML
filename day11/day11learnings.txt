@@ -1,0 +1,13 @@
+Completed the Week 10 lecture, Applying Machine Learning for Large Datasets of Machine Learning by Prof Andrew.
+    *Learnt about Stochastic and Mini batch grdatient descent.
+    *Learnt about Online-Learning algorithm.
+    *Learnt about Map-reduce and data	parallelism.
+
+Completed the Week 11 lecture, Photo Optical Charechter Recognition of Machine Learning by Prof Andrew.
+    *Learnt about Photo	OCR pipeline.
+    *Learnt about Sliding Windows detection method.
+    *Learnt about Artificial Data Synthesis and methods,such as gaussian noise/distortion.
+    *Learnt about Ceiling Analysis which helped to decide is:	What part of the pipeline to work on next.
+    
+    
+  
