@@ -1,0 +1,5 @@
+Completed Lessons 5 - 12 of Session 3 of ML_ZOOMCAMP by DataTalks.Club
+  *Learnt about One hot encoding,logistic regression,rish/ratio,correlation,mutual_information,losgistic regression interpretation
+Notebooks are attached.
+
+ Lesson notes - Will be updated.
