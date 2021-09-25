@@ -1,0 +1,4 @@
+Dated 24/09/2021
+
+Revised the Session 3 of ML_ZOOMCAMP by DataTalksClub (" https://datatalks.club/") , ("https://twitter.com/Al_Grigor")
+Solving the homework problems of Sessioon 3 of ML_ZOOMCAMP
