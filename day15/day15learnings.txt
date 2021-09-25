@@ -1,0 +1,19 @@
+Completed Session 3 homework of ML_ZOOMCAMP by Alexe Grigorev (https://twitter.com/Al_Grigor)
+
+  By working on the homeworks, I learnt about the following :
+    *How to add/remove certain columns in data frames and work with them
+    *Clearning the data containing NaN, Missing values
+    *Splitting data into train/val/test sets, with 60%/20%/20% distribution using train_test_split 
+    *Learnt and implemented the correlation matrix for numerical features in train dataset
+    *Converting numeric target variable to a binary value
+    *Leaarnt and computed mutual information score with binarized target variable and categorical variables in training set.
+    *Learnt and trained Logistic regression and computed the accuracy on the validation dataset . 
+     *While solving this, I made mistakes such as,
+        *Fiting the wrong training set (Should be binarized one, but instead did with numerical and was debugging for a long time and eventually solved)
+        *Gained good experience working and playing with different variables,for loops,creating functions,calling indexes e.t.c
+    * Learnt and implemented feature elimination technique and calculated the difference between original accuracy and accuracy with feature elimination technique.
+    *Learnt and implemented Ridge regression model on training data with target variable being transformed into logarithmic values.
+      *Computed the RMSE scores of Ridge regression model with different Alpha parameter ( Regularization  strength) .
+      
+    
+    
