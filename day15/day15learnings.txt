@@ -14,6 +14,6 @@ Completed Session 3 homework of ML_ZOOMCAMP by Alexe Grigorev (https://twitter.c
     * Learnt and implemented feature elimination technique and calculated the difference between original accuracy and accuracy with feature elimination technique.
     *Learnt and implemented Ridge regression model on training data with target variable being transformed into logarithmic values.
       *Computed the RMSE scores of Ridge regression model with different Alpha parameter ( Regularization  strength) .
-      
+ NOTE : Homework notebook will be attached after due date
     
     
