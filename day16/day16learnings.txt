@@ -1,0 +1,3 @@
+Got started with the course C++:Beginner to Advanced by Mr.Tim Buchalka and  Prof.Frank J. Mitropoulos's (https://linkedin.com/in/frank-j-mitropoulos/) Udemy Course.
+Though the course used Codelite, I learned to setup the C++ enviroment in VScode and VS Community 2019. 
+Refreshed the basics such as declaring variables,printing output, getting inputs e.t.c.
