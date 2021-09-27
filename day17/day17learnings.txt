@@ -1,0 +1,14 @@
+Completed Lessons 1-4 in Session 4 of ML_Zoomcamp by DataTalksClub.
+  *Learnt about accuracy model and function
+  *Learnt about Confusion matrix
+  *Learnt about Precision and Recall
+  *Notebooks are attached
+  
+ Completed Week 1 lectures of Neural Networks and Deep Learning by Prof.Andrew NG
+    *Learnt about the outline and structure of the course.
+    *Refreshed the nerual network principle and supervised learning in neural networks.
+    *Learnt about the reasons for recent take of in Deep Learning.
+      *Amount of data available is growing rapidly.
+      *High computational powers.
+      *Effiecient Algorithms and algorithm inventions.
+   
