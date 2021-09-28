@@ -1,0 +1,9 @@
+Completed Part 1 - Data Preprocessing and  Section 1-Simple Linear Regression,Section 2 -Multiple Linear Regression of Part 2 - Regressioon of Machine Learning A-Z™: Hands-On Python and R in Data Science Udemy course.
+  *Learnt and implemented Data Preprocessing process.
+    *Importing libraries and Data Sets
+    *Handling missing data by filling with mean values / zeros
+    *Learnt about encoding categorical data using OneHotEncoder
+    *Splitting the data sets using train_test_split
+    *Implemented Feature Scaling
+  *Learnt and implemented SimpleLinearRegression for Salary Prediction
+  *Learnt and implemented Multiple Linear Regression for a Venture Captitalist Business problem to predict the best startup to invest in.
