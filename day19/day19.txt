@@ -1,0 +1,42 @@
+Completed Lessons 5 - 7 of ML_Zoomcamp by DataTalksClub.
+  *Learnt about ROC Curves and implemented the model for the data set.
+    *ROC - Reciever operating charechteristics
+      FPR- False positive rate
+
+      It is the ratio of false positive to the total number of actual negatives.
+
+                 FPR = FP /TN + FP
+
+       It is the probability of falsely rejecting a null hypothesis.
+       
+                 TPR = TP /FN + TP
+
+      It is the ratio of true positive to the total number of actual positives.
+      Its is also called as recall. It is the probability that the actual positive will test positive
+      
+      We want to minimize False Positives and False Negatives
+
+     The ROC curves looks at all possible thresholds. It evaluates all qualities for each thresholds.
+     We want the FPR to go down as fast as possible, that is we reduce the FPR so that we correctly predict the non churning ones.
+    
+    We want the TPR to maintain a higher accuracy rate so that we correctly predict the the actual positives.
+    
+ *Learnt about AUC(Area under curve) and implemented the same for the dataset.
+ 
+ *Learnt about Cross Validation using K-fold
+  Split the full train set into k =3 
+
+    Train the model on the first two sets and evaluate it on 3rd set which is the validation set and get the AUC.
+
+    The train and validation is divided into 67% and 33% respectively.
+
+    Now we keep the second set 2nd set as the validation set and the 3rd and 1st one as train set and get the AUC.
+
+    We do the same for 1st set as valid and the rest as train. Get the AUC
+
+    These are called folds.
+
+    Compute the mean AUC and  std auc
+
+    STD shows how stable the model is. The scores differ against different folds.
+  
