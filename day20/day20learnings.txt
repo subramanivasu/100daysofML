@@ -1,0 +1,7 @@
+Completed the Week 4 assignment of ML_Zoomcamp by DataTalksClub
+  *Learnt and implemented ROC,AUC scores across different thresholds,C(Regularization0 parameter
+  *Learnt and implemented F1 scores and K-fold
+
+
+
+Completed the lessons Building program,Compiler errors, Compiler warnings from Udemy course C++:Beginner to Beyond by Prof.Frank Mitropoulos
