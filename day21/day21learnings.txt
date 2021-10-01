@@ -1,0 +1,4 @@
+Revised the assignment of week 4 of ML_Zoomcamp and submitted it. Revised the lesson topics.
+
+Completed the Section 5 of C++:Beginner to Beyond Udemy Course by Prof Frank,Instructor.
+  *Learnt about Compiler Errors,Compiler Warnings,Linker Errors,Logical Errors,Runtime Errors.
