@@ -1,0 +1,4 @@
+I spent the day learing to setup Cuda,cuDnn Toolkit for Tensorflow and Pytorch in Windows and Linux(Ubuntu Distro).
+  *Learnt a lot related to linux terminal commands, dealing with errors/problems and setting up an environment for Tensorflow and Pytorch seperately.
+  
+ Useful resources attached in Notebook.
