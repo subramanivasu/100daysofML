@@ -1,0 +1,6 @@
+Completed Lessons 1-4 of ML_Zoomcamp by DataTalksClub.
+  *Learnt about Pickle library for Saving the model and loading it in another Python function.
+  *Learnt how to use Flask as a web service to predict the Churn. How to use flask to setup Churn as a service and ways to communicate with it through requests e.t.c
+  *Learnt about Flask Deployment and gunicorn(Linux),waitress(Windows) module.
+  
+ Source codes with Notes/Comments is attached.
