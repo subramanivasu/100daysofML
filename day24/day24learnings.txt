@@ -1,0 +1,3 @@
+Completed the Week 5 assignment of ML_Zoomcamp by Datatalksclub ("https://twitter.com/DataTalksClub),Alexey Grigorev("https://twitter.com/Al_Grigor")
+Learnings ranged from Saving/Loading the model with Pickle,running Churn service with Flask Deployment,env management with pipenv,/
+Building/Running @Docker img,Deployment to AWS EB Cloud.
