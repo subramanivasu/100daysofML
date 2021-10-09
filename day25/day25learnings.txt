@@ -1,0 +1,15 @@
+Completed Lectures 1-11 of Week 2 of Neural Networks and Deep Learning by Prof Andrew
+  Revised the following topics,
+          *Binary Classification
+          *Logistic Regression
+          *Logistic Regression Cost function
+          *Gradient DESCENT
+          *Derivatives
+   Learnt the following topics,
+          *Computation Graph
+          *Derivatives with a Computation Graph
+          *Logistic Regression Gradient Descent
+          *Gradient Descent of m training Examples
+          *Derivatives of DL/dz
+          
+Written notes will be shared as pdf. (PS : Sorry If the notes are difficult to understand because of the handwriting)
