@@ -1,0 +1,15 @@
+Completed Lectures 11-18 of Week 2 of Neural Networks and Deep Learning by Prof.Andrew
+
+Learnt about the following topics,
+    *Vectorization
+    *More Vectorizaion Examples
+    *Vectorizing Logistic Regression
+    *Vectorizing Logistic Regression's Gradient Output
+    *Broadcasting in Python
+    *Mistakes to avoid in Python/Numpy
+    *Explanation of Logistic Regression Cost Function
+    
+Written notes will be shared as pdf. (PS: Sorry if you are not able to understand because of the handwriting)
+Practice and Demo Exercises notebooks are attached.
+
+NOTE : Respecting the CODE OF HONOUR,the ASSIGNMENT ANSWERS/NOTEBOOKS will not be shared.
