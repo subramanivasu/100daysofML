@@ -37,6 +37,7 @@ Completed Course Introduction to Embedded Machine Learning.
               *How to deploy a trained model to Arduino
               *Anamoly Detection
               *Motion detection project in my Smartphone
+                  ** Motion Detection using Smartphone Edge IMpulse Link - https://studio.edgeimpulse.com/public/52038/latest **
               
        Week 3 :
               *Sampling Rate and Bit Depth
