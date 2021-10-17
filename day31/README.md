@@ -18,10 +18,9 @@ Completed Course Introduction to Embedded Machine Learning.
 
 **Certification of Completion - https://www.coursera.org/account/accomplishments/verify/FKX6Q8JMNXR8 **
 
-
-      By completeding the curse, I revised and learnt about the following topics,
+ By completeding the course, I revised and learnt about the following topics,
       
-        Week 1 :
+ Week 1 :
               *Machine Learning on Embedded Devices
               *Machine Learning Specific Hardware
               *Machine Learning Software Frameworks
@@ -29,7 +28,7 @@ Completed Course Introduction to Embedded Machine Learning.
               *Feature Selection and Extraction
               *Machine Learning Pipleline
               
-        Week 2 :
+Week 2 :
               *Model Training in Edge Impulse
               *Underfitting and Overfitting
               *How to use a model for inference
@@ -39,10 +38,10 @@ Completed Course Introduction to Embedded Machine Learning.
               *Motion detection project in my Smartphone
                   ** [Motion Detection using Smartphone Edge Impulse Link](https://studio.edgeimpulse.com/public/52038/latest) **
               
-       Week 3 :
+Week 3 :
               *Sampling Rate and Bit Depth
               *Audio Features and Convolutional Neural Networks
               *Deployment to Embedded Systems
-              
-              *** Sound Classification project in Smartphone in progress***
+             
+             *** Sound Classification project in Smartphone in progress***
               
